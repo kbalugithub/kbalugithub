@@ -289,7 +289,7 @@ I'm actively looking for opportunities and collaborations in:
 
 <br/>
 
-[![Resume](https://drive.google.com/file/d/1qBHNc9fadW4yrEIpSREB4UtlrFGg2E6x/view?usp=share_link)](https://github.com/kbalugithub)
+[![Resume](https://img.shields.io/badge/Resume-View-blue?style=for-the-badge&logo=googledrive)](https://drive.google.com/file/d/1qBHNc9fadW4yrEIpSREB4UtlrFGg2E6x/view?usp=share_link)
 
 > 💡 *Replace the Resume button link with your actual resume URL (Google Drive / GitHub raw link).*
 
